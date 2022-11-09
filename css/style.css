@@ -559,6 +559,11 @@ main {
   z-index: 1;
 }
 
+.lavnish
+{
+  color: var(--vegas-gold) ;
+}
+
 .service-item::before {
   content: "";
   position: absolute;
