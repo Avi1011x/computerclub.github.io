@@ -120,6 +120,9 @@ label {
   margin: 0 20px;
 }
 
+.days{
+  margin-left: 0;
+}
 
 .particle:after {
   position: absolute;
